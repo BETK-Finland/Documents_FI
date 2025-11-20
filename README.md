@@ -12,10 +12,11 @@ Tämä repository kokoaa BETK-työryhmän laatimat soveltamisohjeet ja muun tuot
 </html><br>
 
 📂 Sisältö
-
-01_docs/ – BETK dokumentit
-02_soveltamisohjeet/ – ohjeet standardien ja prosessien soveltamiseen
-03_pilotit/ – pilotointien raportit ja tulokset
+<html>
+<tr><code>01_docs/</code> – BETK dokumentit</tr><br>
+<tr><code>02_soveltamisohjeet/</code> – ohjeet standardien ja prosessien soveltamiseen</tr><br>
+<tr><code>03_pilotit/</code> – pilotointien raportit ja tulokset</tr><br>
+</html><br>
 
 <br>📄 Lisenssi<br>
 <html>
