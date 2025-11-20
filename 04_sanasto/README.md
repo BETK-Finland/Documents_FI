@@ -7,6 +7,330 @@ Tämä sanasto on laadittu yhdenmukaistamaan yhteistä kieltä rakennusalan käy
 ***Laatija:*** Teemu Alaluusua
 
 
+
+## Termihakemisto
+
+<details><summary><strong>A</strong></summary>
+
+- [AI, Tekoäly](#ai-tekoaly)
+- [AIR](#air)
+- [AIM](#aim)
+- [Alavirta](#alavirta)
+- [Alkuperäisformaatti](#alkuperaisformaatti)
+- [Alfanumeerinen koodi](#alfanumeerinen-koodi)
+- [Anturi](#anturi)
+- [API](#api)
+- [Arvoketju](#arvoketju)
+- [Asiakastilauksen kytkeytymiskohta](#asiakastilauksen-kytkeytymiskohta)
+- [ATO](#ato)
+- [Attribuutti](#attribuutti)
+- [Automaattinen, Automaatio, Automatisoitu](#automaattinen-automaatio-automatisoitu)
+- [Avoin data](#avoin-data)
+- [Avoin toimintaympäristö](#avoin-toimintaymparisto)
+
+</details>
+
+
+<details><summary><strong>B</strong></summary>
+
+- [BCF](#bcf)
+- [Big Data](#big-data)
+- [BIM](#bim)
+- [Bitti](#bitti)
+- [Bittitavu](#bittitavu)
+- [BOM](#bom)
+- [E-BOM](#e-bom)
+- [M-BOM](#m-bom)
+- [BI](#bi)
+
+</details>
+
+
+<details><summary><strong>C</strong></summary>
+
+- [CDE](#cde)
+
+</details>
+
+
+<details><summary><strong>D</strong></summary>
+
+- [Data](#data)
+- [Data analytiikka](#data-analytiikka)
+- [Data-analyysi](#data-analyysi)
+- [De-facto standardi](#de-facto-standardi)
+- [Digitaalinen identiteetti](#digitaalinen-identiteetti)
+- [Digitaalinen kaksonen](#digitaalinen-kaksonen)
+- [Digitalisaatio](#digitalisaatio)
+- [Digitointi](#digitointi)
+- [DTO](#dto)
+
+</details>
+
+
+<details><summary><strong>E</strong></summary>
+
+- [EDI](#edi)
+- [EIR](#eir)
+- [EPC](#epc)
+- [EPCIS](#epcis)
+- [ERP](#erp)
+- [ETIM-standardi](#etim-standardi)
+- [ETO](#eto)
+
+</details>
+
+
+<details><summary><strong>F</strong></summary>
+
+- [Formaatti](#formaatti)
+
+</details>
+
+
+<details><summary><strong>G</strong></summary>
+
+- [GDPR](#gdpr)
+- [GS1-standardit](#gs1-standardit)
+- [CPID](#cpid)
+- [GDTI](#gdti)
+- [GIAI](#giai)
+- [GINC](#ginc)
+- [GLN](#gln)
+- [GRAI](#grai)
+- [GS1 Digital Link](#gs1-digital-link)
+- [GSIN](#gsin)
+- [GSRN](#gsrn)
+- [GMN](#gmn)
+- [GTIN](#gtin)
+- [SGTIN](#sgtin)
+- [SSCC](#sscc)
+- [GUID-tunniste](#guid-tunniste)
+
+</details>
+
+
+<details><summary><strong>H</strong></summary>
+
+- [Hankintasanoma](#hankintasanoma)
+
+</details>
+
+
+<details><summary><strong>I</strong></summary>
+
+- [IDM](#idm)
+- [IFC](#ifc)
+- [IfcQL](#ifcql)
+- [ifcOWL](#ifcowl)
+- [ifcXML](#ifcxml)
+- [ifcJSON](#ifcjson)
+- [ifcSPFF](#ifcspff)
+- [Ihmisluettava](#ihmisluettava)
+- [Informaatio](#informaatio)
+- [Informaatiomalli](#informaatiomalli)
+- [Informaation vaihto](#informaation-vaihto)
+- [Informaatioteknologia](#informaatioteknologia)
+- [Informaatiovaatimus](#informaatiovaatimus)
+- [Instanssitieto](#instanssitieto)
+- [IoT](#iot)
+- [IoT-laite](#iot-laite)
+- [IoT-järjestelmä](#iot-jarjestelma)
+- [IT](#it)
+
+</details>
+
+
+<details><summary><strong>J</strong></summary>
+
+- [JSON](#json)
+- [Juurisyy](#juurisyy)
+- [Juurisyyanalyysi](#juurisyyanalyysi)
+
+</details>
+
+
+<details><summary><strong>K</strong></summary>
+
+- [Koneoppiminen](#koneoppiminen)
+- [Koneluettavuus](#koneluettavuus)
+- [Koneluettava](#koneluettava)
+- [Konenäkö](#konenako)
+- [Kotiinkutsu](#kotiinkutsu)
+- [Kolli](#kolli)
+- [Koodisto](#koodisto)
+- [Käänteinen logistiikka](#kaanteinen-logistiikka)
+- [Komponentti](#komponentti)
+- [Keskeinen suorituskykymittari (KPI)](#keskeinen-suorituskykymittari-kpi)
+
+</details>
+
+
+<details><summary><strong>L</strong></summary>
+
+- [Laajat kielimallit](#laajat-kielimallit)
+- [Last Planner System](#last-planner-system)
+- [Linkitetty data](#linkitetty-data)
+- [LOD](#lod)
+- [Logistiikka](#logistiikka)
+- [Lohkoketju](#lohkoketju)
+- [LOIN](#loin)
+- [Loki](#loki)
+- [Lokitieto](#lokitieto)
+- [Lähtötiedot](#lahtotiedot)
+
+</details>
+
+
+<details><summary><strong>M</strong></summary>
+
+- [Metatieto](#metatieto)
+- [MRP](#mrp)
+- [MTS](#mts)
+- [MTO](#mto)
+
+</details>
+
+
+<details><summary><strong>N</strong></summary>
+
+- [Nimikkeistö](#nimikkeisto)
+- [NoSQL-tietokanta](#nosql-tietokanta)
+
+</details>
+
+
+<details><summary><strong>O</strong></summary>
+
+- [Ontologia](#ontologia)
+- [Ohjelmointirajapinta](#ohjelmointirajapinta)
+
+</details>
+
+
+<details><summary><strong>P</strong></summary>
+
+- [PEPPOL-verkosto](#peppol-verkosto)
+- [PIM](#pim)
+- [Property Set](#property-set)
+- [PLM](#plm)
+- [Pilvipalvelu](#pilvipalvelu)
+- [Pilvilaskenta](#pilvilaskenta)
+- [PIR](#pir)
+- [Prosessitieto](#prosessitieto)
+- [Projektituote](#projektituote)
+
+</details>
+
+
+<details><summary><strong>R</strong></summary>
+
+- [Relaatiotietokanta](#relaatiotietokanta)
+- [Relaatiotietomalli](#relaatiotietomalli)
+- [REST](#rest)
+- [RFID](#rfid)
+- [Rakenteellinen aineisto](#rakenteellinen-aineisto)
+- [Rakenteeton aineisto](#rakenteeton-aineisto)
+
+</details>
+
+
+<details><summary><strong>S</strong></summary>
+
+- [Sanasto](#sanasto)
+- [Semanttinen yhteentoimivuus](#semanttinen-yhteentoimivuus)
+- [Standardi](#standardi)
+- [Standardointi](#standardointi)
+- [Skeema](#skeema)
+- [SQL-kieli](#sql-kieli)
+- [Suljettu toimintaympäristö](#suljettu-toimintaymparisto)
+
+</details>
+
+
+<details><summary><strong>T</strong></summary>
+
+- [Tahtituotanto](#tahtituotanto)
+- [Tahtiaikataulu](#tahtiaikataulu)
+- [Tahtiaika](#tahtiaika)
+- [Tahtialue](#tahtialue)
+- [Tahtivaunu](#tahtivaunu)
+- [Tapahtumatieto](#tapahtumatieto)
+- [Tiedonvaihtovaatimus](#tiedonvaihtovaatimus)
+- [Tietorakenne](#tietorakenne)
+- [Tiedonhallinta](#tiedonhallinta)
+- [Tietoarkkitehtuuri](#tietoarkkitehtuuri)
+- [Tietojärjestelmä](#tietojarjestelma)
+- [Tietokanta](#tietokanta)
+- [Tunnistus- ja tiedonkeruutekniikat](#tunnistus-ja-tiedonkeruutekniikat)
+- [Tilatieto](#tilatieto)
+- [Toimitusketju](#toimitusketju)
+- [Toimitusketjun hallinta](#toimitusketjun-hallinta)
+- [Toteumamalli](#toteumamalli)
+- [Toteutusmalli](#toteutusmalli)
+- [Tiedon louhinta](#tiedon-louhinta)
+- [Tietoturva](#tietoturva)
+- [Tunniste](#tunniste)
+- [Tunnistaminen](#tunnistaminen)
+- [Tuotantomuoto](#tuotantomuoto)
+- [Transaktiodata](#transaktiodata)
+- [Tuotetieto](#tuotetieto)
+
+</details>
+
+
+<details><summary><strong>U</strong></summary>
+
+- [UDA](#uda)
+- [URI](#uri)
+
+</details>
+
+
+<details><summary><strong>V</strong></summary>
+
+- [Vakiointi](#vakiointi)
+- [Vakiotuote](#vakiotuote)
+- [Validointi](#validointi)
+- [Valintalista](#valintalista)
+- [Versio](#versio)
+- [Vertailuanalysointi](#vertailuanalysointi)
+- [Viivakoodi](#viivakoodi)
+
+</details>
+
+
+<details><summary><strong>W</strong></summary>
+
+- [WIP](#wip)
+
+</details>
+
+
+<details><summary><strong>Y</strong></summary>
+
+- [Yhteentoimivuus](#yhteentoimivuus)
+- [Tiedonsiirron yhteentoimivuus](#tiedonsiirron-yhteentoimivuus)
+- [Syntaktinen yhteentoimivuus](#syntaktinen-yhteentoimivuus)
+- [Semanttinen yhteentoimivuus](#semanttinen-yhteentoimivuus-2)
+- [Yhteentoimivuusalusta](#yhteentoimivuusalusta)
+- [Ylläpitomalli](#yllapitomalli)
+- [Yksilöinti](#yksilointi)
+- [Yksilöintitieto](#yksilointitieto)
+
+</details>
+
+
+<details><summary><strong>X</strong></summary>
+
+- [XML](#xml)
+- [Kardinaliteetti (0.., 1.., 0..n)](#kardinaliteetti)
+
+</details>
+
+
+
+
 ## A
 ### AI, Tekoäly
 Tekoäly (engl. Artificial intelligence, AI) on tietojenkäsittelytieteen osa-alue, jonka tarkoituksena on kehittää tietojenkäsittelyjärjestelmiä, jotka suorittavat normaalisti ihmisen älykkyyteen liittyviä toimintoja, kuten päättelyä, oppimista ja itsensä parantamista.
